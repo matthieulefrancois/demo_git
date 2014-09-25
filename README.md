@@ -2,4 +2,5 @@ demo_git
 ========
 
 Demo de repository Git
-Mise à jour
+Mise Ã  jour
+Modification depuis GitHub
