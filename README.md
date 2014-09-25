@@ -1,4 +1,5 @@
 demo_git
 ========
 
-DÃ©mo de repository Git
+Demo de repository Git
+Mise à jour
